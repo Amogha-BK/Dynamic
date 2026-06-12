@@ -1,11 +1,15 @@
 import { RouterProvider, createBrowserRouter } from 'react-router-dom'
 import HomeOne from '../pages/home-1'
+
+import HomeThree from '../pages/home-3'
 import About from '../pages/about'
 import Team from '../pages/team'
 import Faq from '../pages/faq'
 import Price from '../pages/price'
 import NotFound from '../pages/notFound'
 import Services from '../pages/services'
+
+import HomeTwo from '../pages/home-2'
 import Services_Details from '../pages/services-details'
 import Blog_Grid from '../pages/blog-grid'
 import Blog_Standart from '../pages/blog-standart'
